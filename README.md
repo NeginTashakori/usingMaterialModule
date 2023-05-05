@@ -4,5 +4,3 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 
 ![Alt text](output.png)
-
-![Screenshot](output.png)
